@@ -9,7 +9,7 @@ This extension can help you sort by dragging the rows of the data list, the fron
 ## Installation
 
 ```shell
-composer require open-admin-ext/grid-sortable
+composer require snowsoft/oagrid-sortable
 ```
 
 ## Usage
