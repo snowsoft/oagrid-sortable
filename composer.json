@@ -1,9 +1,9 @@
 {
-    "name": "open-admin-ext/grid-sortable",
+    "name": "snowsoft/oagrid-sortable",
     "description": "Sort the grid data by drag and drop rows",
     "type": "library",
     "keywords": ["open-admin", "extension", "grid", "sortable"],
-    "homepage": "https://github.com/open-admin-org/grid-sortable",
+    "homepage": "https://github.com/snowsoft/oagrid-sortable",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.3.0",
-        "open-admin-org/open-admin": ">=1.0.0",
+        "snowsoft/open-admin": ">=v0.01",
         "spatie/eloquent-sortable": "*"
     },
     "require-dev": {
